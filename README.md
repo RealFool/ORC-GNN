@@ -4,7 +4,7 @@
 
 ## Paper
 
-- Link: [ORC-GNN: A novel open-set recognition based on graph neural network for multi-class classification of psychiatric disorders]([https://www.sciencedirect.com/science/article/abs/pii/S1566253524006651]())
+- Link: [ORC-GNN: A novel open-set recognition based on graph neural network for multi-class classification of psychiatric disorders](sciencedirect.com/science/article/pii/S1566253524006651)
 
 ### Abstract
 
