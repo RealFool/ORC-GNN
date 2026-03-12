@@ -25,9 +25,9 @@ ORC-GNN/
   model/                         # ORC-GNN models and layers
   utils/                         # Dataset reader and evaluation utilities
   Glasso/                        # Group Lasso implementation (bundled)
-  data/                          # Metadata CSVs (example labels/phenotypes)
+  data/                          # Metadata CSVs & datasets
   image/model.jpg                # Architecture figure
-  requestment.txt                # Python dependencies (see notes below)
+  requestment.txt                # Python dependencies 
 ```
 
 ## Environment
