@@ -1,13 +1,10 @@
 # ORC-GNN: Open-Set Risk Collaborative Consistency Graph Neural Network
 
-ORC-GNN is an open-set recognition (OSR) framework for multi-class classification of psychiatric disorders from resting-state fMRI. It integrates whole-brain and hemispheric functional connectivity (FC) graphs, performs multi-level feature fusion, and learns adaptive decision boundaries for known classes while detecting unknown classes.
-
 ![ORC-GNN architecture](image/model.jpg)
 
 ## Paper
 
-- Title: ORC-GNN: A novel open-set recognition based on graph neural network for multi-class classification of psychiatric disorders
-- Link: [https://www.sciencedirect.com/science/article/abs/pii/S1566253524006651]([https://www.sciencedirect.com/science/article/abs/pii/S1566253524006651]())
+- Link: [ORC-GNN: A novel open-set recognition based on graph neural network for multi-class classification of psychiatric disorders]([https://www.sciencedirect.com/science/article/abs/pii/S1566253524006651]())
 
 ### Abstract
 
